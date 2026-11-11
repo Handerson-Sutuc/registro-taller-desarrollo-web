@@ -1,0 +1,15 @@
+{
+  "name": "registro-taller-estudiante",
+  "version": "1.0.0",
+  "description": "Registro de participantes para un taller con Express y SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
